@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.Management.Workplace.dll",
+  "latest": "2561831289-AAB2CEB35B11AB78CA5A6153D47DACD7-1",
+  "builds": [
+    {
+      "key": "2561831289-AAB2CEB35B11AB78CA5A6153D47DACD7-1",
+      "timestamp": "2561831289",
+      "pdb_guid": "AAB2CEB35B11AB78CA5A6153D47DACD7",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2561831289-AAB2CEB35B11AB78CA5A6153D47DACD7-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}

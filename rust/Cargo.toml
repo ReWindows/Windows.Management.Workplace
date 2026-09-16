@@ -1,0 +1,8 @@
+[package]
+name = "windows-management-workplace-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Windissect-generated Rust FFI bindings for Windows.Management.Workplace.dll. Windows only."
+license = "MIT"
+
+[dependencies]
